@@ -22,6 +22,7 @@ public class MicDrop : MonoBehaviour
 
     public void MicDropper()
     {
-        Instantiate(Mic);
+        Debug.Log("Drop Mic When Ready.");
+        Instantiate(Mic, MicSpawnLocation.transform.position, MicSpawnLocation.transform.rotation);
     }
 }
