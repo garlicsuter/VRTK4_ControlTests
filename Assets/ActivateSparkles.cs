@@ -6,6 +6,7 @@ public class ActivateSparkles : MonoBehaviour
 {
     public GameObject Fireworks;
     public ParticleSystem ps;
+    
 
     private void Start()
     {
@@ -25,4 +26,6 @@ public class ActivateSparkles : MonoBehaviour
         Debug.Log("It left.");
         ps.Stop();
     }
+
+    
 }
