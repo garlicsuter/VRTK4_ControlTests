@@ -1,21 +1,21 @@
 fileFormatVersion: 2
-guid: 40d7f595c84e3d047bc7fbed6ec356fd
+guid: 91e1fcbefda50b04ea5f815dc2ee3892
 SketchUpImporter:
   generateBackFace: 0
   mergeCoplanarFaces: 0
-  selectedNodes: 0000000001000000
+  selectedNodes: 000000000100000002000000
   assetHash:
     serializedVersion: 2
-    Hash: 2c58f7e041a6120097dbe38b7b04c282
+    Hash: c9943faaa25caf1a057e31ab823f2e7f
   longitude: -105.242139
   latitude: 40.018309
   northCorrection: -0
   fileUnit: 0
   sketchUpImportData:
     defaultCamera:
-      position: {x: 4.8445225, y: 2.893574, z: -3.1754737}
-      lookAt: {x: -3.19794, y: -1.9492416, z: 7.0836987}
-      up: {x: -0.2148516, y: 0.93740296, z: 0.27407023}
+      position: {x: 3.3967779, y: 2.5382655, z: -0.3959892}
+      lookAt: {x: -16.683449, y: -8.786773, z: 8.012862}
+      up: {x: -0.425687, y: 0.8871378, z: 0.17826186}
       fov: 35
       aspectRatio: 0
       orthoSize: 1
@@ -24,14 +24,14 @@ SketchUpImporter:
   serializedVersion: 23
   fileIDToRecycleName:
     100000: //RootNode
+    100002: Group 1
     400000: //RootNode
-    2100000: _defaultMat
-    2100002: Helen_Skin
-    2100004: Helen_Boots
-    2100006: Helen_Skirt
-    2300000: //RootNode
-    3300000: //RootNode
-    4300000: Mesh box (1)
+    400002: Group 1
+    2100000: Suter-material
+    2100002: _
+    2300000: Group 1
+    3300000: Group 1
+    4300000: Mesh Group 1
   externalObjects: {}
   materials:
     importMaterials: 1
