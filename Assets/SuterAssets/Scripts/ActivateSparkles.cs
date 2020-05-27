@@ -7,7 +7,7 @@ public class ActivateSparkles : MonoBehaviour
     public GameObject Fireworks;
     public ParticleSystem ps;
     
-
+    //start runs once, at the start of the game
     private void Start()
     {
         Fireworks = GameObject.Find("Rocket");
